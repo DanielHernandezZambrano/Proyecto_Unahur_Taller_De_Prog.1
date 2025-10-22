@@ -1,0 +1,1 @@
+# Este proyecto usa únicamente la librería estándar de Python.
