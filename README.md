@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="data/reporte_venta.webp" alt="Vista previa del reporte de ventas" width="500"/>
+</p>
+
 ## Proyecto: Reportes de Ventas — UNAHUR (Taller de Programación 1)
 
 Un conjunto de scripts en Python para cargar datos de ventas desde un CSV, calcular métricas
