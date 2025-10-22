@@ -1,0 +1,17 @@
+--- Reporte de Ventas E-commerce ---
+
+Fecha del Reporte: 21/10/2025
+
+--- Resumen General ---
+Facturación Total: $ 23542.46
+Cantidad Total de Unidades Vendidas: 172
+Producto Más Vendido: Kit RGB Tira LED
+
+--- Top 5 Productos Más Vendidos ---
+1. Kit RGB Tira LED
+2. Cable HDMI 2.1 2m
+3. Teclado Mecanico RGB
+4. Auriculares Inalambricos
+5. Cargador Inalambrico Rapido
+
+---------------------------------------

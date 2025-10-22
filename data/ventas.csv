@@ -1,0 +1,101 @@
+fecha,id_producto,producto,cantidad,precio_unitario
+2025-10-01,SKU-001,Teclado Mecanico RGB,5,85.50
+2025-10-02,SKU-002,Mouse Pro Inalambrico,3,45.00
+2025-10-03,SKU-003,Notebook Gamer 15 pulgadas,2,1250.00
+2025-10-04,SKU-004,Monitor 27 Curvo 144Hz,1,399.99
+2025-10-05,SKU-005,Placa Madre ATX Z790,1,320.00
+2025-10-06,SKU-006,Memoria DDR5 32GB,2,150.00
+2025-10-07,SKU-007,Disco SSD NVMe 1TB,3,120.00
+2025-10-08,SKU-008,Fuente 750W Modular,2,95.00
+2025-10-09,SKU-009,RTX 4070 Ti,1,799.00
+2025-10-10,SKU-010,Refrigeracion Liquida 240mm,2,110.00
+2025-10-11,SKU-011,Silla Gamer Pro,1,259.00
+2025-10-12,SKU-012,Alfombrilla Gamer XL,4,25.00
+2025-10-13,SKU-013,Webcam 1080p,3,49.99
+2025-10-14,SKU-014,Auriculares Inalambricos,5,79.50
+2025-10-15,SKU-015,Soporte Monitor Doble,1,69.99
+2025-10-16,SKU-016,Teclado Compacto Tenkeyless,2,62.00
+2025-10-17,SKU-017,Mouse Gamer con Peso,3,59.90
+2025-10-18,SKU-018,Cable HDMI 2.1 2m,6,12.50
+2025-10-19,SKU-019,Router WiFi 6,1,149.99
+2025-10-20,SKU-020,Switch Ethernet 8 puertos,1,49.00
+2025-10-21,SKU-021,Kit RGB Tira LED,7,22.00
+2025-10-22,SKU-022,Microfono Condensador USB,2,89.00
+2025-10-23,SKU-023,Notebook Ultraligero 14p,1,999.00
+2025-10-24,SKU-024,Bateria Externa 20000mAh,3,39.90
+2025-10-25,SKU-025,Soporte Laptop Ajustable,2,34.50
+2025-10-26,SKU-026,Impresora Multifuncion,1,179.00
+2025-10-27,SKU-027,Scanner Portatil,1,89.99
+2025-10-28,SKU-028,Hub USB-C 7 en 1,4,54.00
+2025-10-29,SKU-029,Disco Duro 2TB HDD,2,69.99
+2025-10-30,SKU-030,Tablet Grafica 10p,1,129.00
+2025-10-31,SKU-031,Cargador Inalambrico Rapido,6,29.99
+2025-11-01,SKU-032,Soporte para Auriculares,3,19.50
+2025-11-02,SKU-033,Bocinas Bluetooth,2,59.99
+2025-11-03,SKU-001,Teclado Mecanico RGB,2,85.50
+2025-11-04,SKU-002,Mouse Pro Inalambrico,1,45.00
+2025-11-05,SKU-003,Notebook Gamer 15 pulgadas,1,1250.00
+2025-11-06,SKU-004,Monitor 27 Curvo 144Hz,2,399.99
+2025-11-07,SKU-005,Placa Madre ATX Z790,1,320.00
+2025-11-08,SKU-006,Memoria DDR5 32GB,1,150.00
+2025-11-09,SKU-007,Disco SSD NVMe 1TB,2,120.00
+2025-11-10,SKU-008,Fuente 750W Modular,1,95.00
+2025-11-11,SKU-009,RTX 4070 Ti,1,799.00
+2025-11-12,SKU-010,Refrigeracion Liquida 240mm,1,110.00
+2025-11-13,SKU-011,Silla Gamer Pro,1,259.00
+2025-11-14,SKU-012,Alfombrilla Gamer XL,2,25.00
+2025-11-15,SKU-013,Webcam 1080p,1,49.99
+2025-11-16,SKU-014,Auriculares Inalambricos,3,79.50
+2025-11-17,SKU-015,Soporte Monitor Doble,1,69.99
+2025-11-18,SKU-016,Teclado Compacto Tenkeyless,2,62.00
+2025-11-19,SKU-017,Mouse Gamer con Peso,1,59.90
+2025-11-20,SKU-018,Cable HDMI 2.1 2m,2,12.50
+2025-11-21,SKU-019,Router WiFi 6,1,149.99
+2025-11-22,SKU-020,Switch Ethernet 8 puertos,1,49.00
+2025-11-23,SKU-021,Kit RGB Tira LED,3,22.00
+2025-11-24,SKU-022,Microfono Condensador USB,2,89.00
+2025-11-25,SKU-023,Notebook Ultraligero 14p,1,999.00
+2025-11-26,SKU-024,Bateria Externa 20000mAh,2,39.90
+2025-11-27,SKU-025,Soporte Laptop Ajustable,3,34.50
+2025-11-28,SKU-026,Impresora Multifuncion,2,179.00
+2025-11-29,SKU-027,Scanner Portatil,1,89.99
+2025-11-30,SKU-028,Hub USB-C 7 en 1,2,54.00
+2025-12-01,SKU-029,Disco Duro 2TB HDD,1,69.99
+2025-12-02,SKU-030,Tablet Grafica 10p,2,129.00
+2025-12-03,SKU-031,Cargador Inalambrico Rapido,1,29.99
+2025-12-04,SKU-032,Soporte para Auriculares,2,19.50
+2025-12-05,SKU-033,Bocinas Bluetooth,1,59.99
+2025-12-06,SKU-001,Teclado Mecanico RGB,1,85.50
+2025-12-07,SKU-002,Mouse Pro Inalambrico,2,45.00
+2025-12-08,SKU-003,Notebook Gamer 15 pulgadas,1,1250.00
+2025-12-09,SKU-004,Monitor 27 Curvo 144Hz,1,399.99
+2025-12-10,SKU-005,Placa Madre ATX Z790,1,320.00
+2025-12-11,SKU-006,Memoria DDR5 32GB,1,150.00
+2025-12-12,SKU-007,Disco SSD NVMe 1TB,1,120.00
+2025-12-13,SKU-008,Fuente 750W Modular,1,95.00
+2025-12-14,SKU-009,RTX 4070 Ti,1,799.00
+2025-12-15,SKU-010,Refrigeracion Liquida 240mm,1,110.00
+2025-12-16,SKU-011,Silla Gamer Pro,1,259.00
+2025-12-17,SKU-012,Alfombrilla Gamer XL,1,25.00
+2025-12-18,SKU-013,Webcam 1080p,1,49.99
+2025-12-19,SKU-014,Auriculares Inalambricos,1,79.50
+2025-12-20,SKU-015,Soporte Monitor Doble,1,69.99
+2025-12-21,SKU-016,Teclado Compacto Tenkeyless,1,62.00
+2025-12-22,SKU-017,Mouse Gamer con Peso,2,59.90
+2025-12-23,SKU-018,Cable HDMI 2.1 2m,2,12.50
+2025-12-24,SKU-019,Router WiFi 6,1,149.99
+2025-12-25,SKU-020,Switch Ethernet 8 puertos,1,49.00
+2025-12-26,SKU-021,Kit RGB Tira LED,1,22.00
+2025-12-27,SKU-022,Microfono Condensador USB,1,89.00
+2025-12-28,SKU-023,Notebook Ultraligero 14p,1,999.00
+2025-12-29,SKU-024,Bateria Externa 20000mAh,1,39.90
+2025-12-30,SKU-025,Soporte Laptop Ajustable,1,34.50
+2025-12-31,SKU-026,Impresora Multifuncion,1,179.00
+2026-01-01,SKU-027,Scanner Portatil,1,89.99
+2026-01-02,SKU-028,Hub USB-C 7 en 1,1,54.00
+2026-01-03,SKU-029,Disco Duro 2TB HDD,1,69.99
+2026-01-04,SKU-030,Tablet Grafica 10p,1,129.00
+2026-01-05,SKU-031,Cargador Inalambrico Rapido,1,29.99
+2026-01-06,SKU-032,Soporte para Auriculares,1,19.50
+2026-01-07,SKU-033,Bocinas Bluetooth,1,59.99
+2026-01-08,SKU-001,Teclado Mecanico RGB,1,85.50
